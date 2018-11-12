@@ -3,7 +3,7 @@
 ## spring-boot-fat-jar-jsp-sample
 
 
-* spring boot(1.5.6.RELEASE) not support `META-INF/resources` in fat jar/exploded directory.
+* test spring boot(1.5.6.RELEASE) not support `META-INF/resources` in fat jar/exploded directory.
 * [spring-boot-sample-web-jsp](https://github.com/spring-projects/spring-boot/tree/v1.5.6.RELEASE/spring-boot-samples/spring-boot-sample-web-jsp) only support war packaging.
 
 This jsp sample support fat jar and `META-INF/resources` in fat jar/exploded directory.
