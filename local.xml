@@ -6,6 +6,7 @@
         <!-- 阿里云仓库 -->
         <mirror>
           <id>nexus-163</id>
+          <mirrorOf>central</mirrorOf>
           <name>Nexus 163</name>
           <url>http://mirrors.163.com/maven/repository/maven-public/</url>
         </mirror>
